@@ -1,5 +1,8 @@
 # Newsletter Sign Up App   
 
+View deployed project [HERE](https://warm-plateau-77035.herokuapp.com/)
+
+
 **Tools Used**
 
 _Node.js_
